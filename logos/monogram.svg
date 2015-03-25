@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>monogram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="monogram" sketch:type="MSArtboardGroup">
+            <g id="monogram-transparent" sketch:type="MSLayerGroup" transform="translate(62.000000, 76.000000)">
+                <path d="M143.006314,0 C145.211966,0 148.197214,1.33277663 149.678891,2.98222557 L172.392538,28.2677744 C173.872048,29.9148121 174.001937,32.6748184 172.674592,34.4431605 L90.3968366,144.056839 C89.0731003,145.820373 86.9191033,145.834394 85.5776024,144.077485 L2.42239764,35.1725151 C1.08454437,33.4203834 1.20183436,30.6738379 2.68604134,29.0360923 C2.68604134,29.0360923 15.8511143,14.5091153 23.7766714,5.76367292 C25.5177809,3.84244861 26.3162147,2.96141828 26.3162147,2.96141828 C27.7984284,1.32587212 30.7828857,0 32.993686,0 L143.006314,0 Z" id="Path-4" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" transform="translate(87.535714, 73.625000) scale(-1, 1) translate(-87.535714, -73.625000) "></path>
+                <path d="M37,12 L86.3196145,76.8565369 C87.324822,78.1784101 88.9488666,78.1800847 89.9498485,76.8565369 L139,12" id="Path-2" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M44.9999997,42 L88.0714283,147.004441" id="Path-6" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M88,92.9999469 L88,141.004441" id="Path-8" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M129.92857,45 L88,147.004441" id="Path-7" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-1" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" cx="88" cy="27" r="12"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="87.5" cy="56.5" r="2.5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="52.5" cy="12.5" r="2.5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="124.5" cy="12.5" r="2.5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="88.5" cy="42.5" r="3.5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="88.5" cy="12.5" r="3.5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="103.5" cy="27.5" r="3.5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="72.5" cy="27.5" r="3.5"></circle>
+                <circle id="Oval-7" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(77.500000, 38.500000) rotate(-315.000000) translate(-77.500000, -38.500000) " cx="77.5" cy="38.5" r="3.5"></circle>
+                <circle id="Oval-4" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(98.500000, 17.500000) rotate(-315.000000) translate(-98.500000, -17.500000) " cx="98.5" cy="17.5" r="3.5"></circle>
+                <circle id="Oval-5" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(98.500000, 38.500000) rotate(-315.000000) translate(-98.500000, -38.500000) " cx="98.5" cy="38.5" r="3.5"></circle>
+                <circle id="Oval-6" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(76.500000, 16.500000) rotate(-315.000000) translate(-76.500000, -16.500000) " cx="76.5" cy="16.5" r="3.5"></circle>
+                <path d="M33.0166621,32 L3,32" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M171.016662,32 L141,32" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
