@@ -1,4 +1,4 @@
-# Philippine Ruby Users Group
+# [Philippine Ruby Users Group](http://www.pinoyrb.org/)
 
 ![](sticker/hexagon sticker 300dpi.png)
 
