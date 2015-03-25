@@ -15,12 +15,12 @@
                     <tspan x="28.5" y="230">Philippine Ruby</tspan>
                     <tspan x="46.368" y="257">Users Group</tspan>
                 </text>
-                <g id="Group" transform="translate(25.000000, 0.000000)" sketch:type="MSShapeGroup">
+                <g id="monogram" transform="translate(25.000000, 0.000000)" sketch:type="MSShapeGroup">
                     <path d="M143.434885,0 C145.640537,0 148.625786,1.33277663 150.107462,2.98222557 L172.821109,28.2677744 C174.30062,29.9148121 174.430509,32.6748184 173.103163,34.4431605 L90.8254081,144.056839 C89.5016717,145.820373 87.3476747,145.834394 86.0061738,144.077485 L2.85096907,35.1725151 C1.51311579,33.4203834 1.63040579,30.6738379 3.11461276,29.0360923 C3.11461276,29.0360923 16.2796857,14.5091153 24.2052428,5.76367292 C25.9463524,3.84244861 26.7447861,2.96141828 26.7447861,2.96141828 C28.2269998,1.32587212 31.2114571,0 33.4222575,0 L143.434885,0 Z" id="Path-4" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" transform="translate(87.964286, 73.625000) scale(-1, 1) translate(-87.964286, -73.625000) "></path>
                     <path d="M36.4999998,12 L85.8196143,76.8565369 C86.8248218,78.1784101 88.4488664,78.1800847 89.4498483,76.8565369 L138.5,12" id="Path-2" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></path>
-                    <path d="M44.5,42 L87.5714286,147.004441" id="Path-6" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></path>
-                    <path d="M87.5714286,92.9999469 L87.5714286,141.004441" id="Path-8" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></path>
-                    <path d="M129.499998,45 L87.5714286,147.004441" id="Path-7" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></path>
+                    <path d="M44.5,39 L87.5714286,144.004441" id="Path-6" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></path>
+                    <path d="M87.5714286,89.9999469 L87.5714286,138.004441" id="Path-8" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></path>
+                    <path d="M129.499998,42 L87.5714286,144.004441" id="Path-7" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></path>
                     <circle id="Oval-1" stroke="#FFFFFF" stroke-width="4" cx="87.5714286" cy="27.25" r="12"></circle>
                     <circle id="Oval-3" fill="#FFFFFF" cx="87.0714286" cy="56.75" r="2.5"></circle>
                     <circle id="Oval-3" fill="#FFFFFF" cx="52.0714286" cy="12.75" r="2.5"></circle>
